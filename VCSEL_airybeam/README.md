@@ -14,13 +14,12 @@ The project focuses on generating **Airy beams with subwavelength focusing** usi
 
 ---
 
-## 📊 Block Diagram
-Below is the simplified workflow of the project:
-
-![Block Diagram](../assets/vcsel_block_diagram.png)  
-*(VCSEL → Gaussian Beam → Metalens → Subwavelength Focused Beam → Metasurface → Airy Beam)*
-
----
+## 📊 Block Diagram (Mermaid)
+```mermaid
+flowchart TD
+    A[VCSEL Design] --> B[Gaussian Beam Output]
+    B -->|+ Metalens| C[Subwavelength Focused Beam]
+    C -->|+ Metasurface| D[Airy Beam]
 
 ## 📄 Documentation
 For detailed methodologies, simulation parameters, and technical insights, refer to the project documentation in this folder.
