@@ -20,3 +20,13 @@ flowchart TD
     A[VCSEL Design] --> B[Gaussian Beam Output]
     B -->|+ Metalens| C[Subwavelength Focused Beam]
     C -->|+ Metasurface| D[Airy Beam]
+```
+---
+---
+
+## 📄 Documentation
+For detailed methodologies, simulation parameters, and technical insights, refer to the project documentation in this folder.
+
+---
+
+🚀 *This capstone project represents a blend of advanced optics and practical simulation work — pushing the boundaries of what’s possible with VCSEL-based photonics.*
