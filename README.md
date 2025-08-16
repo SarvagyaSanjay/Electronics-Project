@@ -10,6 +10,11 @@
 ### 📡 [Portable GPS-GSM Based Safety Tracker](./Portable-GPS-GSM-Safety-Tracker/README.md)
 **Portable GPS-GSM Based Safety Tracker** is a compact device for real-time location tracking and emergency alerts, ideal for personal safety, vehicles, and asset monitoring.
 
+### 🔬 Surface Enhanced VCSEL | (Capstone Project) | *In Progress* | Photonics
+**Surface Enhanced VCSEL** is a research-driven project focused on next-generation photonics.  
+  An ongoing (project), **VCSEL-based optical system** designed to generate **Airy beams** with **subwavelength focusing** incorporating **surface structuring** and applied **simulation tools** to enhance **beam shaping and propagation efficiency**.  
+Potential applications include **optical communication, biomedical imaging, and advanced photonic devices**.
+
 ---
 
 ✨ Click on each project to learn more! ✨
