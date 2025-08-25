@@ -15,8 +15,7 @@
   An ongoing (project), **VCSEL-based optical system** designed to generate **Airy beams** with **subwavelength focusing** incorporating **surface structuring** and applied **simulation tools** to enhance **beam shaping and propagation efficiency**.  
 Potential applications include **optical communication, biomedical imaging, and advanced photonic devices**.
 
-### 🔌 ATtiny85 Embedded Interface PCB
-https://github.com/SarvagyaSanjay/Electronics-Project/blob/main/PCB%20Design%20Altium/README.md
+### 🔌[ATtiny85 Embedded Interface PCB](./PCB%20Design%20Altium/README.md)
 
 A compact **2-layer PCB design** created in **Altium Designer** featuring the **ATtiny85 microcontroller**, USB interface, LED indicator, and peripheral I/O connectors.  
 Designed for embedded prototyping with focus on **routing flexibility**, **signal reliability**, and **compact layout**.  
