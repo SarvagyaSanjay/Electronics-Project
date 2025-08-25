@@ -14,7 +14,7 @@ The project focuses on generating **Airy beams with subwavelength focusing** usi
 
 ---
 
-## 📊 Block Diagram (Mermaid)
+## 📊 Block Diagram
 ```mermaid
 flowchart TD
     A[VCSEL Design] --> B[Gaussian Beam Output]
