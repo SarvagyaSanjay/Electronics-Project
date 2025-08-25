@@ -26,7 +26,8 @@ graph LR
 ```
 ---
 
-# 📡 🔹 Project 2: 7-Element Dipole Antenna Array  
+# 📡 🔹 Project 2: 7-Element Dipole Antenna Array 
+https://github.com/SarvagyaSanjay/Electronics-Project/blob/main/CST%20Studio_Antenna%20Design/antenna_7array.pdf
 
 A project involving the design and simulation of a **7-element dipole antenna array** with optimized spacing and feed gap, aimed at achieving efficient radiation at **1 GHz**.  
 
