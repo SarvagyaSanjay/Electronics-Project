@@ -4,9 +4,8 @@ This repository contains design specifications and layouts for two antenna array
 
 ---
 
-## 🔹 Project 1: Uniform Linear Array (ULA) with 6 Elements
-https://github.com/SarvagyaSanjay/Electronics-Project/blob/main/CST%20Studio_Antenna%20Design/antenna_array.pdf 
-
+## 🔹 [Project 1: Uniform Linear Array (ULA) with 6 Elements](https://github.com/SarvagyaSanjay/Electronics-Project/blob/main/CST%20Studio_Antenna%20Design/antenna_array.pdf)
+ 
 ### 🛠️ Design Specifications  
 
 | Parameter              | Value                     |
@@ -26,8 +25,7 @@ graph LR
 ```
 ---
 
-# 📡 🔹 Project 2: 7-Element Dipole Antenna Array 
-https://github.com/SarvagyaSanjay/Electronics-Project/blob/main/CST%20Studio_Antenna%20Design/antenna_7array.pdf
+## 📡 🔹 [Project 2: 7-Element Dipole Antenna Array](https://github.com/SarvagyaSanjay/Electronics-Project/blob/main/CST%20Studio_Antenna%20Design/antenna_7array.pdf)
 
 A project involving the design and simulation of a **7-element dipole antenna array** with optimized spacing and feed gap, aimed at achieving efficient radiation at **1 GHz**.  
 
