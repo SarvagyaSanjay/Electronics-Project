@@ -22,7 +22,7 @@ A compact **2-layer PCB design** created in **Altium Designer** featuring the **
 Designed for embedded prototyping with focus on **routing flexibility**, **signal reliability**, and **compact layout**.  
 
 
-### Antenna Array Design using CST Studio
+### [Antenna Array Design using CST Studio](.https://github.com/SarvagyaSanjay/Electronics-Project/blob/main/CST%20Studio_Antenna%20Design/README.md)
 
 This repository contains design specifications and layouts for two antenna array configurations developed for 1 GHz operation. Both projects focus on dipole-based arrays with optimized spacing for broadside radiation.
 
