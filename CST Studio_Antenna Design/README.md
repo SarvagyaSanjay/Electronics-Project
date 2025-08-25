@@ -1,11 +1,11 @@
 # 📡 Antenna Array Design Projects  
-https://github.com/SarvagyaSanjay/Electronics-Project/blob/main/CST%20Studio_Antenna%20Design/antenna_array.pdf
 
 This repository contains design specifications and layouts for two antenna array configurations developed for **1 GHz operation**. Both projects focus on dipole-based arrays with optimized spacing for broadside radiation.  
 
 ---
 
-## 🔹 Project 1: Uniform Linear Array (ULA) with 6 Elements  
+## 🔹 Project 1: Uniform Linear Array (ULA) with 6 Elements
+https://github.com/SarvagyaSanjay/Electronics-Project/blob/main/CST%20Studio_Antenna%20Design/antenna_array.pdf 
 
 ### 🛠️ Design Specifications  
 
