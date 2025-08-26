@@ -24,7 +24,7 @@ Designed for embedded prototyping with focus on **routing flexibility**, **signa
 
 This repository contains design specifications and layouts for two antenna array configurations developed for 1 GHz operation. Both projects focus on dipole-based arrays with optimized spacing for broadside radiation.
 
-[🌞 Performance Enhancement of Quantum Dot Integrated Solar Cells](https://github.com/SarvagyaSanjay/Electronics-Project/blob/main/Quantum%20Tech%20and%20Nanomaterials/README.md#performance-enhancement-of-quantum-dot-integrated-solar-cells)
+### 🌞 [Performance Enhancement of Quantum Dot Integrated Solar Cells](https://github.com/SarvagyaSanjay/Electronics-Project/blob/main/Quantum%20Tech%20and%20Nanomaterials/README.md#performance-enhancement-of-quantum-dot-integrated-solar-cells)
 
 This project investigates the integration of quantum dots into heterojunction solar cells to enhance their efficiency and stability.  
 - Simulated the effect of quantum dot layers on carrier transport, recombination, and absorption characteristics.  
