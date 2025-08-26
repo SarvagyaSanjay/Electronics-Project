@@ -13,8 +13,6 @@ This project explores how **Quantum Dots (QDs)** can be integrated into **hetero
 - **QD-Integrated Cell Efficiency:** 25.6% 🚀  
 - Improved spectral absorption and device reliability.  
 
-![Efficiency Comparison](quantum_dot_efficiency.png)  
-
 ## ⚙️ Tools & Methods  
 - 📐 **Simulation Tools:** MATLAB / Device modeling software  
 - 📊 **Analysis:** Energy band diagrams, absorption spectrum, carrier transport models  
