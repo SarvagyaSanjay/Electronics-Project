@@ -4,6 +4,9 @@
 The **Surface Enhanced VCSEL (Vertical-Cavity Surface-Emitting Laser)** project is a research-driven photonics capstone aimed at designing advanced optical systems.  
 The project focuses on generating **Airy beams with subwavelength focusing** using **VCSEL design, metalenses, and metasurfaces**. This work explores the frontier of **beam shaping and optical manipulation** with potential applications in **optical communication, biomedical imaging, and advanced photonic devices**.
 
+<img width="746" height="649" alt="image" src="https://github.com/user-attachments/assets/5d67e00a-9a8f-468d-94af-107c606b6c49" />
+
+
 ---
 
 ## ✨ Key Highlights
