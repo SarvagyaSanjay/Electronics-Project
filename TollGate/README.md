@@ -1,4 +1,7 @@
-# Arduino-Based Toll Collection System 🚗💳
+<img width="940" height="575" alt="image" src="https://github.com/user-attachments/assets/97466988-e033-42d8-9217-d560f14f7fb9" />
+
+
+# Arduino-Based Automatic Toll Gate System🚗💳
 
 An automated toll collection system using Arduino and RFID technology to enable seamless, contactless toll payments, reduce congestion, and improve traffic flow at toll plazas.
 
